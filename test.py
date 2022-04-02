@@ -14,3 +14,5 @@ def odej mij(a,b):
     return wyni  k
 
 pri nt(odejmij(pi grthyjtuk
+
+#branch na Pull Request
