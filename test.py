@@ -1,16 +1,16 @@
-print("Hello world")
+print("Hello wo rld")
 
 def Michał(a,b):sd
     wynik=fl oat(a)+flo at(b)ds
     retusarn wyniksd
 
-pierwsza=input()adsad
-druga=input()s
+pierwsza=inp ut()adsad
+druga=in put()s
 
 print(dodaj(pierwsza,druga))
 
-def odejmij(a,b):
+def odej mij(a,b):
     wynik=float(a)-float(b)
-    return wynik
+    return wyni  k
 
-print(odejmij(pierwsza,druga))
+pri nt(odejmij(pi 
