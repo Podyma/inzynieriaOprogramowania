@@ -1,8 +1,8 @@
 print("Hello world")
 
-def dodaj(a,b):sd
-    wynik=float(a)+float(b)ds
-    return wyniksd
+def Michał(a,b):sd
+    wynik=fl oat(a)+flo at(b)ds
+    retusarn wyniksd
 
 pierwsza=input()adsad
 druga=input()s
