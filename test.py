@@ -1,16 +1,1 @@
-print("Hello wo rld")
-
-def Michał(a,b):sd
-    wynik=fl oat(a)+flo at(b)ds
-    retusarn wyniksd
-
-pierwsza=inp ut()adsad
-druga=in put()s
-
-print(dodaj(pierwsza,druga))
-
-def odej mij(a,b):
-    wynik=float(a)-float(b)
-    return wyni  k
-
-pri nt(odejmij(pi 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
