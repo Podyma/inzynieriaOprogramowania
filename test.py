@@ -13,4 +13,4 @@ def odej mij(a,b):
     wynik=float(a)-float(b)
     return wyni  k
 
-pri nt(odejmij(pi grthyjtukyi7
+pri nt(odejmij(pi grthyjtuk
